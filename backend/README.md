@@ -23,7 +23,7 @@ Certifique-se de ter os seguintes softwares instalados:
 ### 1. Clone o Repositório (se aplicável)
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/gabrieldeam/pefea.git
 cd seu-projeto/backend
 ```
 
